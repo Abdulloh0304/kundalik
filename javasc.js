@@ -1,1 +1,1 @@
-//alert('OQISH KERE :)')
+alert('OQISH KERE :)')
